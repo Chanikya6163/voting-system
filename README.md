@@ -40,7 +40,7 @@ Why don't you try to debug the errors on your own if any?
 
 in case if u still have errors message ya 
 
-this project has multiple packages so create carefully yaar 
+this project has multiple packages so create carefully yaa
 
 
 TAKE CARE 

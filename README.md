@@ -9,7 +9,6 @@ All class files are placed into respective packages in package "votingproject"
 to create u r own class files in packages please use " javac -d . programName.java "
 
 **************************************************************************************************************************************************************************************************
-// written by 5c1
 please change the class name VotingSystem01 to "VotingSystem"
 
 also change the code file name from "VotingSystem01.java" to "VotingSystem.java"
